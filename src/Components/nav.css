@@ -1,0 +1,11 @@
+.nav-bar{
+    width: 100%;
+    background-color: aqua;
+}
+.nav-wrapper{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
