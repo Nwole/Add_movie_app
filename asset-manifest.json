@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Add_movie_app/static/css/main.f34f303c.css",
-    "main.js": "/Add_movie_app/static/js/main.5651c784.js",
-    "static/js/787.28667c4d.chunk.js": "/Add_movie_app/static/js/787.28667c4d.chunk.js",
-    "index.html": "/Add_movie_app/index.html",
-    "main.f34f303c.css.map": "/Add_movie_app/static/css/main.f34f303c.css.map",
-    "main.5651c784.js.map": "/Add_movie_app/static/js/main.5651c784.js.map",
-    "787.28667c4d.chunk.js.map": "/Add_movie_app/static/js/787.28667c4d.chunk.js.map"
+    "main.css": "/Nwole/movie_app.git/static/css/main.f34f303c.css",
+    "main.js": "/Nwole/movie_app.git/static/js/main.c80591cb.js",
+    "static/js/787.28667c4d.chunk.js": "/Nwole/movie_app.git/static/js/787.28667c4d.chunk.js",
+    "index.html": "/Nwole/movie_app.git/index.html",
+    "main.f34f303c.css.map": "/Nwole/movie_app.git/static/css/main.f34f303c.css.map",
+    "main.c80591cb.js.map": "/Nwole/movie_app.git/static/js/main.c80591cb.js.map",
+    "787.28667c4d.chunk.js.map": "/Nwole/movie_app.git/static/js/787.28667c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f34f303c.css",
-    "static/js/main.5651c784.js"
+    "static/js/main.c80591cb.js"
   ]
 }
