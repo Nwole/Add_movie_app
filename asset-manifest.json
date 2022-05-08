@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nwole/Add_movie_app.git/static/css/main.f34f303c.css",
+    "main.js": "/Nwole/Add_movie_app.git/static/js/main.2d44b682.js",
+    "static/js/787.28667c4d.chunk.js": "/Nwole/Add_movie_app.git/static/js/787.28667c4d.chunk.js",
+    "index.html": "/Nwole/Add_movie_app.git/index.html",
+    "main.f34f303c.css.map": "/Nwole/Add_movie_app.git/static/css/main.f34f303c.css.map",
+    "main.2d44b682.js.map": "/Nwole/Add_movie_app.git/static/js/main.2d44b682.js.map",
+    "787.28667c4d.chunk.js.map": "/Nwole/Add_movie_app.git/static/js/787.28667c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34f303c.css",
+    "static/js/main.2d44b682.js"
+  ]
+}
